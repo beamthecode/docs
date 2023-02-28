@@ -42,4 +42,4 @@ In the above example, the `foregroundColor(.green)` modifier is called on the `T
 
 This will display the following:
 
-! [image] (/Volumes/LaCie/Git-Practice/docs/media/SwiftUI-foregroundColor-display.png)
+![SwiftUI ViewModifier .foregroundColor()](https://raw.githubusercontent.com/Codecademy/docs/main/media/SwiftUI-foregroundColor-display.png)
